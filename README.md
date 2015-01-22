@@ -24,6 +24,7 @@ The repository contains useful geo-spatial data on state healthy watershed desig
 * High fish production
 * Low impervious surface
 * Water quality protection
+
 <strong>Protection:</strong>
 * Direct acquisition
 * Conservation easements
@@ -37,6 +38,7 @@ The repository contains useful geo-spatial data on state healthy watershed desig
 <strong>Healthy Watershed:</strong>
 * Special Protection Waters – Exceptional Value and High Quality
 *  Category 1 and 2 waters (meeting all or some of designated uses)
+
 <strong>Protection:</strong>
 * Permitting programs
 * Healthy Waters Program
@@ -52,6 +54,7 @@ The repository contains useful geo-spatial data on state healthy watershed desig
  No specific definition. If defining a “healthy” watershed, NYS would:
  * Evaluate if designated best uses are supported in the vast majority of waterbodies in the watershed.
  * Evaluate if the quality of the water leaving a watershed contributes to problems in watersheds downstream.
+
 <strong>Protection:</strong>
 The Waterbody Inventory/Priority
 Waterbodies List provides a baseline assessment of water quality and helps NYS prioritize limited resources.
@@ -62,11 +65,13 @@ Waterbodies List provides a baseline assessment of water quality and helps NYS p
 flows), broad biodiversity, high native predators, presence of migratory fish species, low incidence of disease or parasites that provide ecosystem services and social and economic benefits
  * Multi-metric ecological assessment - physical condition of streams, habitat, fish and macro invertebrate assemblages via archival and field collected data through a probabilistic sampling approach
  * All data and the assessment methodology is available on an interactive, searchable website housed by VCU:  http://instar.vcu.edu/.
+
 <strong>Protection:</strong>
 Technical assistance, direct acquisition, conservation easements, public land management, stewardship programs, antidegredation, local government watershed planning and zoning, partnering with key NGOs to achieve the above (TNC, APNEP, land trusts, etc), changes in State Code to further facilitate the VA HWI.
 
 # West Virginia
 <strong>Healthy Watershed:</strong>
  No specific definition
+
 <strong>Protection:</strong>
 Anti-degradation, watershed protection plans, point-source regulations; voluntary nonpoint source BMPs; encouraging public involvement and protection through agency outreach and education programs and small grant programs such as WV Save Our Streams, Project Wet and Stream Partners
