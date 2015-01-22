@@ -7,6 +7,7 @@ The repository contains useful geo-spatial data on state healthy watershed desig
 * “Water Quality” includes macroinvertbrate, wetland, habitat, & riparian zone assessments
 * Have 303(d) listings for low bug scores, poor habitat & degraded riparian areas
 * Will have TMDLs or their equivalent for poor habitat &/or biology
+
 <strong>Protection:</strong>
 * Anti-Degradation Policy & Procedures
 * Active land conservation programs (fee simple and easements)
